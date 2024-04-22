@@ -1,6 +1,6 @@
 # Technical-Test
 
-This is my Practival Test for Data Engineer Position
+This is my Practical Test for Data Engineer Position
 
 # Requirement
 - Python 3
