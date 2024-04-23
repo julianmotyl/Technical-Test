@@ -1,0 +1,101 @@
+Product ID,Product Name,Category,Supplier ID,Unit Cost
+P10000,Product 0,Personal Protective Equipment,S400,20.27
+P10001,Product 1,Pharmaceuticals,S401,1.05
+P10002,Product 2,Personal Protective Equipment,S402,81.64
+P10003,Product 3,Personal Protective Equipment,S403,70.83
+P10004,Product 4,Pharmaceuticals,S404,73.04
+P10005,Product 5,Pharmaceuticals,S405,77.24
+P10006,Product 6,Personal Protective Equipment,S406,7.87
+P10007,Product 7,Medical Devices,S407,36.17
+P10008,Product 8,Personal Protective Equipment,S408,12.03
+P10009,Product 9,Personal Protective Equipment,S409,86.38
+P10010,Product 10,Personal Protective Equipment,S410,62.52
+P10011,Product 11,Personal Protective Equipment,S411,33.42
+P10012,Product 12,Pharmaceuticals,S412,6.82
+P10013,Product 13,Personal Protective Equipment,S413,31.44
+P10014,Product 14,Medical Devices,S414,32.86
+P10015,Product 15,Pharmaceuticals,S415,73.1
+P10016,Product 16,Medical Devices,S416,63.94
+P10017,Product 17,Medical Devices,S417,88.78
+P10018,Product 18,Medical Devices,S418,47.49
+P10019,Product 19,Medical Devices,S419,12.4
+P10020,Product 20,Pharmaceuticals,S420,71.47
+P10021,Product 21,Pharmaceuticals,S421,76.2
+P10022,Product 22,Medical Devices,S422,56.35
+P10023,Product 23,Medical Devices,S423,77.21
+P10024,Product 24,Pharmaceuticals,S424,49.63
+P10025,Product 25,Pharmaceuticals,S425,52.51
+P10026,Product 26,Pharmaceuticals,S426,43.04
+P10027,Product 27,Personal Protective Equipment,S427,3.03
+P10028,Product 28,Personal Protective Equipment,S428,11.24
+P10029,Product 29,Personal Protective Equipment,S429,3.63
+P10030,Product 30,Medical Devices,S430,63.82
+P10031,Product 31,Personal Protective Equipment,S431,31.78
+P10032,Product 32,Medical Devices,S432,51.1
+P10033,Product 33,Medical Devices,S433,90.8
+P10034,Product 34,Personal Protective Equipment,S434,25.3
+P10035,Product 35,Medical Devices,S435,41.33
+P10036,Product 36,Personal Protective Equipment,S436,75.68
+P10037,Product 37,Personal Protective Equipment,S437,23.27
+P10038,Product 38,Pharmaceuticals,S438,8.16
+P10039,Product 39,Personal Protective Equipment,S439,29.33
+P10040,Product 40,Pharmaceuticals,S440,16.54
+P10041,Product 41,Personal Protective Equipment,S441,93.0
+P10042,Product 42,Personal Protective Equipment,S442,80.91
+P10043,Product 43,Pharmaceuticals,S443,63.52
+P10044,Product 44,Pharmaceuticals,S444,87.21
+P10045,Product 45,Personal Protective Equipment,S445,80.47
+P10046,Product 46,Medical Devices,S446,19.06
+P10047,Product 47,Pharmaceuticals,S447,89.31
+P10048,Product 48,Medical Devices,S448,54.16
+P10049,Product 49,Medical Devices,S449,80.84
+P10050,Product 50,Medical Devices,S450,89.66
+P10051,Product 51,Pharmaceuticals,S451,32.14
+P10052,Product 52,Medical Devices,S452,11.45
+P10053,Product 53,Pharmaceuticals,S453,23.18
+P10054,Product 54,Medical Devices,S454,43.0
+P10055,Product 55,Personal Protective Equipment,S455,81.89
+P10056,Product 56,Personal Protective Equipment,S456,86.14
+P10057,Product 57,Pharmaceuticals,S457,1.19
+P10058,Product 58,Personal Protective Equipment,S458,51.32
+P10059,Product 59,Personal Protective Equipment,S459,42.03
+P10060,Product 60,Medical Devices,S460,22.6
+P10061,Product 61,Pharmaceuticals,S461,12.43
+P10062,Product 62,Medical Devices,S462,34.09
+P10063,Product 63,Medical Devices,S463,94.32
+P10064,Product 64,Medical Devices,S464,32.66
+P10065,Product 65,Medical Devices,S465,52.12
+P10066,Product 66,Medical Devices,S466,70.45
+P10067,Product 67,Medical Devices,S467,36.68
+P10068,Product 68,Medical Devices,S468,97.19
+P10069,Product 69,Pharmaceuticals,S469,96.26
+P10070,Product 70,Personal Protective Equipment,S470,25.55
+P10071,Product 71,Medical Devices,S471,49.98
+P10072,Product 72,Medical Devices,S472,30.44
+P10073,Product 73,Medical Devices,S473,28.84
+P10074,Product 74,Medical Devices,S474,4.17
+P10075,Product 75,Medical Devices,S475,61.15
+P10076,Product 76,Medical Devices,S476,50.52
+P10077,Product 77,Personal Protective Equipment,S477,5.62
+P10078,Product 78,Personal Protective Equipment,S478,28.23
+P10079,Product 79,Medical Devices,S479,90.87
+P10080,Product 80,Personal Protective Equipment,S480,24.34
+P10081,Product 81,Pharmaceuticals,S481,14.92
+P10082,Product 82,Medical Devices,S482,49.2
+P10083,Product 83,Pharmaceuticals,S483,98.57
+P10084,Product 84,Pharmaceuticals,S484,24.58
+P10085,Product 85,Medical Devices,S485,67.38
+P10086,Product 86,Personal Protective Equipment,S486,76.28
+P10087,Product 87,Pharmaceuticals,S487,24.14
+P10088,Product 88,Medical Devices,S488,72.96
+P10089,Product 89,Pharmaceuticals,S489,37.09
+P10090,Product 90,Pharmaceuticals,S490,63.41
+P10091,Product 91,Pharmaceuticals,S491,63.54
+P10092,Product 92,Pharmaceuticals,S492,53.81
+P10093,Product 93,Personal Protective Equipment,S493,9.48
+P10094,Product 94,Pharmaceuticals,S494,83.61
+P10095,Product 95,Pharmaceuticals,S495,32.42
+P10096,Product 96,Pharmaceuticals,S496,19.06
+P10097,Product 97,Personal Protective Equipment,S497,4.56
+P10098,Product 98,Pharmaceuticals,S498,59.29
+P10099,Product 99,Pharmaceuticals,S499,67.92
