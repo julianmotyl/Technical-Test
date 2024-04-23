@@ -12,21 +12,22 @@ Python program is in a jupyter notebook provided with code & results
 # Architectural diagramme 
 ![Diagramme.svg](Diagramme.svg)
 
-# Technical choice :
-## Data ingestion :
+# Technical choice :
+## Data ingestion :
 I assumed that files are present on a local file system (with node for example)
 
-Automated ingestion of a CSV : Python (requirement)
-## Data transformation :
-Data cleaning & validation & cleaning :  Python (requirement)
-## Data Storage :
+Automated ingestion of a CSV : Python (requirement)
+## Data transformation :
+Data cleaning & validation & cleaning :  Python (requirement)
+## Data Storage :
 Must support operational activities and analytical queries with high availability and can be efficiently accessed by a web application for both reads and writes.
 
     • Apache Cassandra 
     • AWS Aurora
     • AWS Redshift
 
-Could be good for this, but I’ll chose **MongoDB** because It’s easy to setup and that’s a good fit for a practical test. MongoDB provide built in access from various connectors like pymongo and an an 
+Could be good for this, but I’ll choose **MongoDB** because It’s easy to set up and that’s a good fit for a practical test. MongoDB provide built in access from various connectors like pymongo
+
 interface should look like that example : 
 ```
 from pymongo import MongoClient
@@ -92,14 +93,14 @@ if __name__ == "__main__":
 
 # Data Analysis and Reporting
 AWS provide a good service of analysis and reporting with OpenSearch 
-but since were not on a cloud platform I'll choose Apache Superset to create a Dashboard.
-Apache superset provide an easy to use connector to mongoDB
+but since we're not on a cloud platform, I'll choose Apache Superset to create a Dashboard.
+Apache superset provide an easy-to-use connector to MongoDB
 
-MongoDB provide and easy web Acces, so we can create a basic application in desired framework (Angular, React etc...)
+MongoDB provides an easy web access, so we can create a basic application in desired framework (Angular, React etc...)
 
 # Note Concerning Tests & Data Quality
 
-MongoDB provide a test on _id to be unique. For Silver or Gold grade we can enshure that an id from a collection match on an other collection.
-Catching errors provide a way of keeping duplicated or malformed reccord into an other table.
+MongoDB provides a test on _id to be unique. For Silver or Gold grade, we can ensure that an ID from a collection match on another collection.
+Catching errors provide a way of keeping duplicated or malformed record into another table.
 
-Not test on the code it self is provided 
+Not test on the code itself is provided 
